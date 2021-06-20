@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### I'm Software Developer based on <a href="https://laravel.com/docs"> Laravel </a>
-#### 🔭 I’m currently working on PC GKBI Medari Yogyakarta as a IT Developer
+#### 🔭 I’m currently working on PC GKBI Medari Yogyakarta as an IT Developer
 #### 👯 I’m open to collaborate on Side Project (Web, Web Service) if u have it 😄, i have much time for it.
 #### 💬 Ask me about <a href="https://laravel.com/docs"> Laravel </a>
 #### ⚡ Fun fact: friendly
