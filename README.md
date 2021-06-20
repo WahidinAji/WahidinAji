@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I'm Software Developer based on <a href="https://laravel.com/docs"> Laravel </a>
+#### 🔭 I’m currently working on PC GKBI Medari Yogyakarta as a IT Developer
+#### 👯 I’m open to collaborate on Side Project (Web, Web Service) if u have it 😄, i have much time for it.
+#### 💬 Ask me about <a href="https://laravel.com/docs"> Laravel </a>
+#### ⚡ Fun fact: friendly
+#### 📫 How to reach me: 
+   * ##### <a href="https://www.linkedin.com/in/wahidin-aji/"> LinkedIn </a>
+   * ##### <a href="https://twitter.com/a17wahidin"> Twitter </a>
+#### 🌱 I’m currently learning JavaScript for Backend.
+#### Thanks for ur journey on my github profile. Enjoy ur days ✨
