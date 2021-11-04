@@ -27,4 +27,3 @@ Here are some ideas to get you started:
 #### Thanks for ur journey on my github profile. Enjoy ur days ✨
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WahidinAji&layout=compact)](https://github.com/WahidinAji/github-readme-stats)
-[![WahidinAji's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WahidinAji)](https://github.com/WahidinAji/github-readme-stats)
