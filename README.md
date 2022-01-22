@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 #### 🌱 I’m currently learning <a href="https://golang.org/">Golang</a> for Backend.
 #### Thanks for ur journey on my github profile. Enjoy ur days ✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WahidinAji&layout=compact)](https://github.com/WahidinAji/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WahidinAji&layout=compact)](https://github.com/WahidinAji/github-readme-stats) -->
