@@ -31,7 +31,12 @@ Here are some ideas to get you started:
 ```
 This project is already in production, and the URL is valid I deployed it with fly.io
 ```
-[Restfull API with Golang Fiber](https://slice-fiber.fly.dev/)
+* [Restfull API with Golang Fiber](https://slice-fiber.fly.dev/)
+
+### Active Contributing on Teknologi Umum / Blog
+Teknologi Umum is a community of polyglots and outliers.
+
+* [Teknlogi Umum](https://github.com/teknologi-umum/blog)
 
 #### Thanks for ur journey on my github profile. Enjoy ur days ✨
 
