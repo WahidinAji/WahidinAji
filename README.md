@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #### 📫 How to reach me: 
    * ##### <a href="https://www.linkedin.com/in/wahidin-aji/"> LinkedIn </a>
    * ##### <a href="https://twitter.com/a17wahidin"> Twitter </a>
-#### 🌱 I’m currently learning <a href="https://golang.org/">Golang</a> for Backend.
+#### 🌱 I’m currently coding with <a href="https://golang.org/">Golang</a> for Backend and <a href="https://laravel.com/docs"> Laravel </a> for Fullstack.
 
 
 ### My project list practice is ready for production
