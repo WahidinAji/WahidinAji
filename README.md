@@ -15,19 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm Software Developer based on <a href="https://laravel.com/docs"> Laravel </a>
-#### 🔭 I’m currently working on PC GKBI Medari Yogyakarta as an IT Developer
+#### I'm Software Engineer based on <a href="https://laravel.com/docs"> Laravel </a> and [Go / Golang](https://go.dev/)
+#### 🔭 I’m currently working on [Pandai Education Sdn Bhd](https://pandai.org/) as a Software Engineer
 #### 👯 I’m open to collaborate on Side Project (Web, Web Service) if u have it 😄, i have much time for it.
 #### 💬 Ask me about <a href="https://laravel.com/docs"> Laravel </a>
-#### ⚡ Fun fact: friendly
+#### ⚡ Fun fact: Always interesting with Anime. But, I'm not a Wibu :D
 #### 📫 How to reach me: 
    * ##### <a href="https://www.linkedin.com/in/wahidin-aji/"> LinkedIn </a>
    * ##### <a href="https://twitter.com/a17wahidin"> Twitter </a>
-#### 🌱 I’m currently coding with <a href="https://golang.org/">Golang</a> for Backend and <a href="https://laravel.com/docs"> Laravel </a> for Fullstack.
+#### 🌱 I’m currently coding with <a href="https://go.dev/">Golang</a> for Backend and <a href="https://laravel.com/docs"> Laravel </a> for Fullstack.
 
+### My side project lists
+#### `Laravel`
+* [Forum Asisten](https://forumasisten.or.id/)
+* [batik Adyatama](https://batikadyatma.my.id/)
 
 ### My project list practice is ready for production
-
+#### `Golang`
 ```
 This project is already in production, and the URL is valid I deployed it with fly.io
 ```
