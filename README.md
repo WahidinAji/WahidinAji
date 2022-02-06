@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 This project is already in production, and the URL is valid I deployed it with fly.io
 ```
 * [Restfull API with Golang Fiber](https://slice-fiber.fly.dev/)
+* [Rest API Sample JWT on Golang With Echo Framework](https://go-jwt.fly.dev/)
 
 ### Active Contributing on Teknologi Umum / Blog
 Teknologi Umum is a community of polyglots and outliers.
