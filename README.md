@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://raw.githubusercontent.com/WahidinAji/WahidinAji/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/WahidinAji/WahidinAji/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/WahidinAji/WahidinAji/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/WahidinAji/WahidinAji/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/WahidinAji/WahidinAji/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 #### I'm Software Engineer based on <a href="https://laravel.com/docs"> Laravel </a> and [Go / Golang](https://go.dev/)
 #### 🔭 I’m currently working on [Pandai Education Sdn Bhd](https://pandai.org/) as a Software Engineer
 #### 👯 I’m open to collaborate on Side Project (Web, Web Service) if u have it 😄, i have much time for it.
@@ -28,6 +24,13 @@ Here are some ideas to get you started:
    * ##### <a href="https://www.linkedin.com/in/wahidin-aji/"> LinkedIn </a>
    * ##### <a href="https://twitter.com/a17wahidin"> Twitter </a>
 #### 🌱 I’m currently coding with <a href="https://go.dev/">Golang</a> for Backend and <a href="https://laravel.com/docs"> Laravel </a> for Fullstack.
+
+#### Summary Github Profile
+
+[![](https://raw.githubusercontent.com/WahidinAji/generate-github-profile-summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/WahidinAji/generate-github-profile-summary-cards/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/WahidinAji/generate-github-profile-summary-cards/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/WahidinAji/generate-github-profile-summary-cards/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/WahidinAji/generate-github-profile-summary-cards/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 ### My side project lists
 #### `Laravel`
