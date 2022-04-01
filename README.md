@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### My side project lists
 #### `Laravel`
 * [Forum Asisten](https://forumasisten.or.id/)
-* [batik Adyatama](https://batikadyatma.my.id/)
+* [batik Adyatama](https://batikadyatma.com/)
 
 ### My project list practice is ready for production
 #### `Golang`
