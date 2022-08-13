@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### I'm Software Engineer based on <a href="https://laravel.com/docs"> Laravel </a> and [Go / Golang](https://go.dev/)
 #### 🔭 I’m currently working on [Pandai Education Sdn Bhd](https://pandai.org/) as a Software Engineer
-#### 👯 I’m open to collaborate on Side Project (Web, Web Service) if u have it 😄, i have much time for it.
+#### 👯 I’m open to collaborating on Side projects (Web, Web Service).
 #### 💬 Ask me about <a href="https://laravel.com/docs"> Laravel </a>
 #### ⚡ Fun fact: Always interesting with Anime. But, I'm not a Wibu :D
 #### 📫 How to reach me: 
