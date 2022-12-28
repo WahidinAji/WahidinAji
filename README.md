@@ -54,3 +54,10 @@ Teknologi Umum is a community of polyglots and outliers.
 #### Thanks for ur journey on my github profile. Enjoy ur days ✨
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WahidinAji&layout=compact)](https://github.com/WahidinAji/github-readme-stats) -->
+<br>
+<br>
+
+
+#### My ZSH Theme 
+*`fino-time`
+<img src="https://user-images.githubusercontent.com/49100982/108254806-82cfdf80-716c-11eb-9bbc-2d9648109b31.jpg" alt="fino-time">
