@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 #### 💬 Ask me about <a href="https://laravel.com/docs"> Laravel </a>
 #### ⚡ Fun fact: Always interesting with Anime. But, I'm not a Wibu :D
 #### 📫 How to reach me: 
-   * ##### <a href="https://www.linkedin.com/in/wahidin-aji/"> LinkedIn </a>
    * ##### <a href="https://twitter.com/a17wahidin"> Twitter </a>
 #### 🌱 I’m currently coding with <a href="https://go.dev/">Golang</a> for Backend and <a href="https://laravel.com/docs"> Laravel </a> for Fullstack.
 
