@@ -15,14 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### I'm Software Engineer based on <a href="https://laravel.com/docs"> Laravel </a> and [Go / Golang](https://go.dev/)
-#### 🔭 I’m currently working on [Pandai Education Sdn Bhd](https://pandai.org/) as a Software Engineer
-#### 👯 I’m open to collaborating on Side projects (Web, Web Service).
-#### 💬 Ask me about <a href="https://laravel.com/docs"> Laravel </a>
-#### ⚡ Fun fact: Always interesting with Anime. But, I'm not a Wibu :D
-#### 📫 How to reach me: 
-   * ##### <a href="https://twitter.com/a17wahidin"> Twitter </a>
-#### 🌱 I’m currently coding with <a href="https://go.dev/">Golang</a> for Backend and <a href="https://laravel.com/docs"> Laravel </a> for Fullstack.
+I'm Software Engineer based on <a href="https://laravel.com/docs"> Laravel </a> and [Go / Golang](https://go.dev/)
+<ul>
+  <li>
+    🔭 I’m currently working on <a href="https://pandai.org/">Pandai Education Sdn Bhd</a> as a Software Engineer
+  </li>
+  <li>👯 I’m open to collaborating on Side projects (Web, Web Service).</li>
+  <li>💬 Ask me about <a href="https://laravel.com/docs"> Laravel </a></li>
+  <li>⚡ Fun fact: Always interested in Anime. But, I'm not a Wibu :D</li>
+  <li>
+    📫 How to reach me: 
+    <br>
+    <a href="https://twitter.com/a17wahidin"> Twitter </a>
+  </li>
+  <li>🌱 I’m currently coding with <a href="https://go.dev/">Golang</a> for Backend and <a href="https://laravel.com/docs"> Laravel </a> for Fullstack.</li>
+</ul>
+
 
 #### Summary Github Profile
 
