@@ -56,7 +56,7 @@ This project is already in production, and the URL is valid I deployed it with f
 ```
 * [Restfull API with Golang Fiber](https://slice-fiber.fly.dev/)
 * [Rest API Sample JWT on Golang With Echo Framework](https://go-jwt.fly.dev/)
-* [Presences Activities - Rest API only](https://presences.fly.dev/) : `the documentation isn't ready yet`
+* [Presences Activities - Rest API only](https://presences.fly.dev/) : `the documentation isn't ready yet` but you can see the repository [here](https://github.com/WahidinAji/presence-activities)
 
 ### Active Contributing on Teknologi Umum / Blog
 Teknologi Umum is a community of polyglots and outliers.
