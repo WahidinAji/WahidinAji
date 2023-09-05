@@ -82,4 +82,5 @@ Teknologi Umum is a community of polyglots and outliers.
 * <a href="https://cockroachlabs.cloud/">cockroachlabs</a>
 * <a href="https://www.gigalixir.com/">gigalixir</a>
 * <a href="https://www.cloudflare.com/">cloudflare</a>
+* <a href="https://nhost.io/">nhost</a>
 
