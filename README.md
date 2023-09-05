@@ -73,3 +73,13 @@ Teknologi Umum is a community of polyglots and outliers.
 #### My ZSH Theme 
 *`fino-time`
 <img src="https://user-images.githubusercontent.com/49100982/108254806-82cfdf80-716c-11eb-9bbc-2d9648109b31.jpg" alt="fino-time">
+
+
+
+
+### The free tier that I used to
+* <a href="https://www.koyeb.com/">Koyeb</a>
+* <a href="https://cockroachlabs.cloud/">cockroachlabs</a>
+* <a href="https://www.gigalixir.com/">gigalixir</a>
+* <a href="https://www.cloudflare.com/">cloudflare</a>
+
