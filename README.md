@@ -54,7 +54,7 @@ I'm Software Engineer based on <a href="https://laravel.com/docs"> Laravel </a> 
 ```
 This project is already in production, and the URL is valid I deployed it with fly.io
 ```
-* [Restfull API with Golang Fiber](https://slice-fiber.fly.dev/)
+* [Restfull API with Golang Fiber](https://slice.takakiyo.my.id/)
 * [Rest API Sample JWT on Golang With Echo Framework](https://go-jwt.fly.dev/)
 * [Presences Activities - Rest API only](https://presences.fly.dev/) : `the documentation isn't ready yet` but you can see the repository [here](https://github.com/WahidinAji/presence-activities)
 
@@ -83,4 +83,6 @@ Teknologi Umum is a community of polyglots and outliers.
 * <a href="https://www.gigalixir.com/">gigalixir</a>
 * <a href="https://www.cloudflare.com/">cloudflare</a>
 * <a href="https://nhost.io/">nhost</a>
+* <a href="https://zeabur.com/">zeabur</a> <span>slice-api</span>
+
 
