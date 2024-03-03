@@ -21,7 +21,7 @@ I'm Software Engineer based on <a href="https://laravel.com/docs"> Laravel </a> 
     🔭 I’m currently working on <a href="https://pandai.org/">Pandai Education Sdn Bhd</a> as a Software Engineer
   </li>
   <li>👯 I’m open to collaborating on Side projects (Web, Web Service).</li>
-  <li>💬 Ask me about <a href="https://laravel.com/docs"> Laravel </a></li>
+  <li>💬 Ask me about <a href="https://laravel.com/docs"> Laravel </a> and <a href="https://go.dev/"> Golang </a></li>
   <li>⚡ Fun fact: Always interested in Anime. But, I'm not a Wibu :D</li>
   <li>
     📫 How to reach me: 
