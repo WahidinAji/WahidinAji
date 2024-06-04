@@ -30,9 +30,7 @@ I'm Software Engineer based on <a href="https://laravel.com/docs"> Laravel </a> 
   </li>
   <li>🌱 I’m currently coding with <a href="https://go.dev/">Golang</a> for Backend and <a href="https://laravel.com/docs"> Laravel </a> for Fullstack.</li>
   <li>
-    Also, I relearned 
-    <img src="https://camo.githubusercontent.com/36bec898636fa1af91f44976e109fe05b312b7dfcd62edead398a7efedbcd8a8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30642f435f53686172705f776f72646d61726b2e7376672f34363470782d435f53686172705f776f72646d61726b2e7376672e706e67" width="2%"/>
-    for now
+    In my leisure, I learn ReactJS.
   </li>
 </ul>
 
