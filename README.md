@@ -28,9 +28,9 @@ I'm Software Engineer based on <a href="https://laravel.com/docs"> Laravel </a> 
     <br>
     <a href="https://twitter.com/a17wahidin"> Twitter </a>
   </li>
-  <li>🌱 I’m currently coding with <a href="https://go.dev/">Golang</a> for Backend and <a href="https://laravel.com/docs"> Laravel </a> for Fullstack.</li>
+  <li>🌱 I’m currently coding with <a href="https://go.dev/">Golang</a> for Backend,  <a href="https://remix.run"> Remix </a> and  <a href="https://laravel.com/docs"> Laravel </a> for Fullstack.</li>
   <li>
-    In my leisure, I learn ReactJS.
+    In my leisure, I reads book
   </li>
 </ul>
 
