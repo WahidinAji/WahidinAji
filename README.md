@@ -22,7 +22,7 @@ I'm Software Engineer based on <a href="https://laravel.com/docs"> Laravel </a> 
   </li>
   <li>👯 I’m open to collaborating on Side projects (Web, Web Service).</li>
   <li>💬 Ask me about <a href="https://laravel.com/docs"> Laravel </a> and <a href="https://go.dev/"> Golang </a></li>
-  <li>⚡ Fun fact: Always interested in Anime. But, I'm not a Wibu :D</li>
+  <!-- <li>⚡ Fun fact: Always interested in Anime. But, I'm not a Wibu :D</li> -->
   <li>
     📫 How to reach me: 
     <br>
@@ -33,6 +33,18 @@ I'm Software Engineer based on <a href="https://laravel.com/docs"> Laravel </a> 
     In my leisure, I reads book
   </li>
 </ul>
+
+### Book I read currently?
+  `Disclaimer`: I'm not an affiliator or anything related to the books I list below. I just read the books
+* [The Joy of Missing Out - Seni Menjalani Hidup Tanpa Rasa Panik](https://mizanstore.com/the_joy_of_missing_bentang_pustaka_70411) by Tanya Dalton
+  This book says,s
+  - Identify what's important for us and clarify the priority
+  - `censored` <strong>you can buy the book if you are interested</strong>
+* Kaiju No. 8 By Naoya Matsumoto - I bought the book from Gramedia
+
+### What did I Learn, or what made me interested currently?
+#### Update November 2025, I am interested in TypeScript + tRPC with <a href="https://tanstack.com/"> Tanstack</a> and All trash project started with <a href="https://bun.com/docs">Bun</a>
+    I've created some templates using Bun+TypeScript. You can check the template by going through the repositories menu in My profile. Thanks.
 
 
 #### Summary Github Profile
@@ -84,6 +96,7 @@ Teknologi Umum is a community of polyglots and outliers.
 * <a href="https://railway.app/">Railway</a>
 * <a href="https://zeabur.com/">zeabur</a> <span>slice-api</span>
 * <a href="https://imagekit.io/">Imagekit</a> <span>(Cloud Storage)</span>
+* HOME-LAB IS THE BEST
 
 
 
