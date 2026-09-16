@@ -45,6 +45,7 @@ I'm Software Engineer based on <a href="https://laravel.com/docs"> Laravel </a> 
 ### What did I Learn, or what made me interested currently?
 #### Update November 2025, I am interested in TypeScript + tRPC with <a href="https://tanstack.com/"> Tanstack</a> and All trash project started with <a href="https://bun.com/docs">Bun</a>
     I've created some templates using Bun+TypeScript. You can check the template by going through the repositories menu in My profile. Thanks.
+#### BACK TO LARAVEL WITH TALL STACK🔥
 
 
 #### Summary Github Profile
