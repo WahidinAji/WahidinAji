@@ -19,10 +19,6 @@ I'm a [Ranger Merah](https://wahidin-aji.my.id)
 
 #### always start with a Cold Brew
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WahidinAji&layout=compact)](https://github.com/WahidinAji/github-readme-stats) -->
-<br>
-<br>
-
 
 
 ### The free tier that I used to
